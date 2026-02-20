@@ -276,9 +276,6 @@
 	}
 	requestAnimationFrame(raf);
 
-	// ScrollCue JS
-	scrollCue.init();
-
 	// Only For Light & Dark
 	const toggleButton = document.getElementById('for-light-dark');
 	if (toggleButton) {

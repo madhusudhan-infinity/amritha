@@ -40,7 +40,6 @@ export default function RootLayout({
     <html lang="zxx">
       <head>
         <link rel="stylesheet" href="/assets/css/swiper-bundle.min.css" />
-        <link rel="stylesheet" href="/assets/css/scrollCue.css" />
         <link rel="stylesheet" href="/assets/css/tabler-icons.min.css" />
         <link rel="stylesheet" href="/assets/css/style.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
@@ -134,7 +133,6 @@ export default function RootLayout({
         
         <Script src="/assets/js/bootstrap.bundle.min.js" strategy="beforeInteractive" />
         <Script src="/assets/js/swiper-bundle.min.js" strategy="beforeInteractive" />
-        <Script src="/assets/js/scrollCue.min.js" strategy="afterInteractive" />
         <Script src="/assets/js/fslightbox.js" strategy="afterInteractive" />
         <Script src="/assets/js/ukiyo.min.js" strategy="afterInteractive" />
         <Script src="/assets/js/lenis.js" strategy="afterInteractive" />
